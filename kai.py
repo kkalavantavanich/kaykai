@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-kai - verification bot
+kai - automated migration verification bot
 
 kai will verify the migration whether it is done correctly. 
 It accomplishes this by checking the data in the new webpage <table> 
